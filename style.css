@@ -50,7 +50,7 @@ footer{
 }
 .bgimg{
     width: 1295px;
-    height: 550px;
+    height: 570px;
 }
 strong{
     color: orangered;
@@ -65,6 +65,7 @@ strong{
 }
 p{
     font-size: 20px;
+    padding-top: 15px;
 }
 .trait{
     background-color: orangered;
